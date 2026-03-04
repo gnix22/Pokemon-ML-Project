@@ -1,0 +1,32 @@
+ID (Pokédex Number): This is the unique number assigned to each Pokémon in the official Pokédex.
+Name: The name of the Pokémon.
+HP: How much health a Pokémon has before it gets knocked out.
+Attack: This stat shows how strong a Pokémon’s physical moves are.
+Defense: This tells you how much Pokémon can take physical hits without getting hurt too much.
+Sp. Attack: This number indicates how powerful a Pokémon’s special moves are.
+Sp. Defense: This stat measures how well a Pokémon can resist damage from special moves.
+Speed: A higher speed means the Pokémon is more likely to attack first during battles.
+Base_Stats: This is the total of all the key stats (HP, Attack, Defense, Special Attack, Special Defense, and Speed) combined, giving a quick overall idea of the Pokémon’s power.
+Weaknesses: Indicates how much damage certain type moves can do.
+Includes: Normal, Fire, Water, Electric, Grass, Ice, Fighting, Poison, Ground, Flying, Psychic, Bug, Rock, Ghost, Dragon, Dark, Steel, and Fairy type.
+height_inches: The Pokémon’s height measured in inches.
+height_meters: The Pokémon’s height measured in meters.
+weight_pounds: The weight of the Pokémon in pounds.
+weight_kilograms: The weight of the Pokémon in kilograms.
+capturing_rate: This number gives an idea of how easy or hard it is to catch the Pokémon.
+gender_male_ratio: This shows the percentage chance that the Pokémon is male. (Can be null)
+egg_steps: The number of steps needed for an egg to hatch into a Pokémon.
+egg_cycles: The number of egg cycles required for the Pokémon to hatch.
+abilities: A list of special skills or powers that the Pokémon has passively.
+Type 1: The primary elemental type of the Pokémon, i.e. Water, Fire, or Grass.
+Type 2: If the Pokémon has a second type, it’s listed here.
+Classification_info: This gives a description for the Pokémon (like “Seed Pokémon” or “Flame Pokémon”).
+Forms: This tells you if the Pokémon's different forms or appearances.
+gen: Which generation the Pokémon first appeared in.
+Is_Legendary: A boolean value to show whether the Pokémon is one of the legendary ones.
+Is_Mythical: Indicates if the Pokémon is classified as a mythical creature.
+Is_Ultra_Beast: Shows if the Pokémon is one of the Ultra Beasts.
+number_immune: The count of move types that don’t affect the Pokémon at all.
+number_not_effective: How many move types aren’t very effective against the Pokémon.
+number_normal: The number of move types that have a normal effect on the Pokémon.
+number_super_effective: The count of move types that are especially effective against the Pokémon.
