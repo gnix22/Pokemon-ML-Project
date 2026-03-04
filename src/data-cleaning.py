@@ -1,10 +1,14 @@
 import pandas as pd
 import numpy as np
-
+import seaborn as sns
+import matplotlib.pyplot as plt
 df = pd.read_csv("../data/pokemon_data.csv")
 # get hot one encoding of dual type to use in corr matrix
 df["combined_typing"] = df["Type 1"] + '/' + df["Type 2"]
 one_hot_encoded_combined = pd.get_dummies(df["combined_typing"],dtype='uint8')
+# get number of each type
+sums = one_hot_encoded_combined.sum().to_list()
+print(sums)
 list_encoded = one_hot_encoded_combined.columns.to_list()
 df.drop('combined_typing', axis=1)
 df = df.join(one_hot_encoded_combined)
@@ -14,8 +18,11 @@ df = df.join(one_hot_encoded_combined)
 keep_col_list = ["Name","Base_Stats","Type 1","Type 2","number_immune","number_not_effective","number_normal","number_super_effective"]
 keep_col_list.extend(list_encoded)
 selected_df = df[keep_col_list]
-only_numeric = selected_df.select_dtypes(include=[np.number])
 
+# counts of things (mainly to check if there are no pokemon of certain combinations, remove them)
+print(selected_df.describe())
+
+only_numeric = selected_df.select_dtypes(include=[np.number])
 correlation = only_numeric.corr()
 print("correlation matrix: ")
 print(correlation)
