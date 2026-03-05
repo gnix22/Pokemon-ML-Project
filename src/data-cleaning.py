@@ -3,24 +3,13 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import sklearn
-from sklearn.datasets import make_classification
 from sklearn.tree import DecisionTreeClassifier
-from matplotlib import pyplot
-from sklearn import tree
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 # load csv
 df = pd.read_csv("../data/pokemon_data.csv")
-########################################################## REGRESSION #################################################################################
-## Note that one hot likely best for prediction of regression based questions since the dummies 
-## would be hard to specifically predict? Maybe not though, need to look through old files.
-df["combined_typing"] = df["Type 1"] + df["Type 2"].apply(lambda x: '/' + x if pd.notna(x) else '')
-one_hot_encoded_combined = pd.get_dummies(df["combined_typing"],dtype='uint8')
-# get number of each type
-sums = one_hot_encoded_combined.sum().to_list()
-list_encoded = one_hot_encoded_combined.columns.to_list()
-
 ########################################################### TYPE CLASSIFICATION ########################################################################
+df["combined_typing"] = df["Type 1"] + df["Type 2"].apply(lambda x: '/' + x if pd.notna(x) else '')
 # can exclude pretty much everything other than stats and typing
 # this is due to the fact that Base_Stats are total of individual stats
 keep_col_list = ["Name","Base_Stats","Type 1","Type 2","number_immune","number_not_effective","number_normal","number_super_effective","combined_typing"]
