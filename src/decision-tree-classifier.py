@@ -31,7 +31,7 @@ for i in range(6):
     linear_pred = linear_regressor.predict(linear_features)
     mse = mean_squared_error(linear_target, linear_pred)
     r2 = r2_score(linear_target, linear_pred)
-    print(f"Regressor MSE: {mse:.2f}, R²: {r2:.4f}")
+    print(f"regression mean squared: {mse:.2f}, R²: {r2:.4f}")
 
     # train current set
     target = pool["combined_typing"]

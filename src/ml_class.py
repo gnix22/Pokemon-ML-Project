@@ -16,7 +16,7 @@ class PokeMachineClassifiers:
         # this is due to the fact that Base_Stats are total of individual stats
         keep_col_list = ["Name","Base_Stats","Type 1","Type 2","number_immune","number_not_effective","number_normal","number_super_effective","combined_typing"]
         self.df = self.df[keep_col_list]
-    def type_classifier(self):
+    def decision_tree_classifier(self):
         df = self.df
         # for decision tree, set target as typing and use numeric features only
         # then predict the best team composition, where each pokemon has to be of a different typing.
@@ -32,19 +32,19 @@ class PokeMachineClassifiers:
             )
             decision_tree = DecisionTreeClassifier(criterion='entropy',random_state=42)
             decision_tree.fit(features_train, target_train)
+            predictions = decision_tree.predict(features_test)
+            print(f"Iteration {i+1} Accuracy: {accuracy_score(target_test, predictions):.2%}")
             # ideal stats that a pokemon would be expected to have to be strong.
             max_stats = max(pool["Base_Stats"])
             max_immune = max(pool["number_immune"])
             max_not_effective = max(pool["number_not_effective"])
             med_norm = pool["number_normal"].median()
             min_super_effective = min(pool["number_super_effective"])
+            # predict with decision tree
             new_pokemon = pd.DataFrame(
                 [[max_stats, max_immune, max_not_effective, med_norm, min_super_effective]],
                 columns=features.columns
             )
-            predictions = decision_tree.predict(features_test)
-            print(f"Iteration {i+1} Accuracy: {accuracy_score(target_test, predictions):.2%}")
-
             predicted_type = decision_tree.predict(new_pokemon)[0]
             # find the actual predicted pokemon
             type_pool = pool[pool["combined_typing"] == predicted_type]
