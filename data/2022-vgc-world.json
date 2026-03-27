@@ -1,0 +1,6140 @@
+[
+  {
+    "name": "Eduardo Cunha [PT]",
+    "placing": 1,
+    "record": {
+      "wins": 12,
+      "losses": 0,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": [
+        {
+        "id": "423",
+        "name": "Gastrodon",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      },
+      {
+        "id": "898",
+        "name": "Calyrex (Shadow Rider)",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      },
+      {
+        "id": "812",
+        "name": "Rillaboom (Gigantamax)",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      },
+      {
+        "id": "727",
+        "name": "Incineroar",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      },
+      {
+        "id": "642",
+        "name": "Thundurus",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      },
+      {
+        "id": "888",
+        "name": "Zacian",
+        "teratype": "",
+        "ability": "",
+        "item": "",
+        "badges": [
+
+        ]
+      }
+    ],
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "W",
+        "table": 5
+      },
+      "2": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "W",
+        "table": 32
+      },
+      "3": {
+        "name": "Naoya Takasago [JP]",
+        "result": "W",
+        "table": 6
+      },
+      "4": {
+        "name": "Markus Stadter [DE]",
+        "result": "W",
+        "table": 6
+      },
+      "5": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "W",
+        "table": 5
+      },
+      "6": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "W",
+        "table": 5
+      },
+      "7": {
+        "name": "Roberto Parente [IT]",
+        "result": "W",
+        "table": 5
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "W",
+        "table": 1
+      },
+      "10": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "W",
+        "table": 1
+      },
+      "11": {
+        "name": "Paul Chua [US]",
+        "result": "W",
+        "table": 1
+      },
+      "12": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "W",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "Guillermo Castilla [ES]",
+    "placing": 2,
+    "record": {
+      "wins": 10,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Lukas Auer [AT]",
+        "result": "W",
+        "table": 17
+      },
+      "2": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "W",
+        "table": 20
+      },
+      "3": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "W",
+        "table": 17
+      },
+      "4": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 10
+      },
+      "5": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "W",
+        "table": 13
+      },
+      "6": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "W",
+        "table": 10
+      },
+      "7": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "W",
+        "table": 7
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Eric Rios [ES]",
+        "result": "W",
+        "table": 8
+      },
+      "10": {
+        "name": "Davide Carrer [IT]",
+        "result": "W",
+        "table": 4
+      },
+      "11": {
+        "name": "James Baek [US]",
+        "result": "W",
+        "table": 2
+      },
+      "12": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "James Baek [US]",
+    "placing": 3,
+    "record": {
+      "wins": 9,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Paul Ruiz [EC]",
+        "result": "W",
+        "table": 30
+      },
+      "2": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "W",
+        "table": 15
+      },
+      "3": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 16
+      },
+      "4": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "W",
+        "table": 21
+      },
+      "5": {
+        "name": "Federico Camporesi [IT]",
+        "result": "W",
+        "table": 18
+      },
+      "6": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "W",
+        "table": 7
+      },
+      "7": {
+        "name": "Nils Dunlop [SE]",
+        "result": "W",
+        "table": 6
+      },
+      "8": {
+        "name": "Motoki Agano [JP]",
+        "result": "W",
+        "table": 7
+      },
+      "9": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "W",
+        "table": 6
+      },
+      "10": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "W",
+        "table": 3
+      },
+      "11": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 2
+      }
+    }
+  },
+  {
+    "name": "Paul Chua [US]",
+    "placing": 4,
+    "record": {
+      "wins": 8,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "joaquin salerno [AR]",
+        "result": "W",
+        "table": 10
+      },
+      "2": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 6
+      },
+      "3": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "W",
+        "table": 44
+      },
+      "4": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "W",
+        "table": 26
+      },
+      "5": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 16
+      },
+      "6": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "W",
+        "table": 24
+      },
+      "7": {
+        "name": "Sho Ito [JP]",
+        "result": "W",
+        "table": 12
+      },
+      "8": {
+        "name": "Nils Dunlop [SE]",
+        "result": "W",
+        "table": 5
+      },
+      "9": {
+        "name": "Roberto Parente [IT]",
+        "result": "W",
+        "table": 4
+      },
+      "10": {
+        "name": "Calvin Foster [GB]",
+        "result": "W",
+        "table": 2
+      },
+      "11": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "Calvin Foster [GB]",
+    "placing": 5,
+    "record": {
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "W",
+        "table": 58
+      },
+      "2": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "W",
+        "table": 9
+      },
+      "3": {
+        "name": "Markus Stadter [DE]",
+        "result": "L",
+        "table": 13
+      },
+      "4": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "W",
+        "table": 32
+      },
+      "5": {
+        "name": "Kota Kawabe [JP]",
+        "result": "W",
+        "table": 21
+      },
+      "6": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "L",
+        "table": 15
+      },
+      "7": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "W",
+        "table": 17
+      },
+      "8": {
+        "name": "Alex Soto [ES]",
+        "result": "W",
+        "table": 4
+      },
+      "9": {
+        "name": "David Koutesh [CZ]",
+        "result": "W",
+        "table": 3
+      },
+      "10": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 2
+      }
+    }
+  },
+  {
+    "name": "Meaghan Rattle [AU]",
+    "placing": 6,
+    "record": {
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 47
+      },
+      "2": {
+        "name": "Raghav Malaviya [US]",
+        "result": "L",
+        "table": 48
+      },
+      "3": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "W",
+        "table": 50
+      },
+      "4": {
+        "name": "Takuma Yamane [JP]",
+        "result": "W",
+        "table": 53
+      },
+      "5": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "W",
+        "table": 24
+      },
+      "6": {
+        "name": "Henry Rich [AU]",
+        "result": "W",
+        "table": 23
+      },
+      "7": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "W",
+        "table": 18
+      },
+      "8": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "W",
+        "table": 6
+      },
+      "9": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "W",
+        "table": 5
+      },
+      "10": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 3
+      }
+    }
+  },
+  {
+    "name": "Davide Carrer [IT]",
+    "placing": 7,
+    "record": {
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "L",
+        "table": 51
+      },
+      "2": {
+        "name": "Kazuki Kobayashi [JP]",
+        "result": "W",
+        "table": 59
+      },
+      "3": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "W",
+        "table": 25
+      },
+      "4": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 31
+      },
+      "5": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "W",
+        "table": 41
+      },
+      "6": {
+        "name": "Wataru Arai [JP]",
+        "result": "W",
+        "table": 30
+      },
+      "7": {
+        "name": "Joji Kaieda [JP]",
+        "result": "W",
+        "table": 14
+      },
+      "8": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "W",
+        "table": 9
+      },
+      "9": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "W",
+        "table": 7
+      },
+      "10": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 4
+      }
+    }
+  },
+  {
+    "name": "Naoto Mizubuchi [JP]",
+    "placing": 8,
+    "record": {
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Adrien Hurley [US]",
+        "result": "L",
+        "table": 60
+      },
+      "2": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 53
+      },
+      "3": {
+        "name": "Szymon Wojdat [PL]",
+        "result": "W",
+        "table": 47
+      },
+      "4": {
+        "name": "Lukas Auer [AT]",
+        "result": "W",
+        "table": 37
+      },
+      "5": {
+        "name": "Federico Isola [IT]",
+        "result": "W",
+        "table": 48
+      },
+      "6": {
+        "name": "James Evans [US]",
+        "result": "W",
+        "table": 21
+      },
+      "7": {
+        "name": "Shohei Kimura [JP]",
+        "result": "W",
+        "table": 16
+      },
+      "8": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "W",
+        "table": 3
+      },
+      "9": {
+        "name": "Ko Tsukide [JP]",
+        "result": "W",
+        "table": 2
+      },
+      "10": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "Hippolyte Bernard [FR]",
+    "placing": 9,
+    "record": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "W",
+        "table": 15
+      },
+      "2": {
+        "name": "Paul Chua [US]",
+        "result": "W",
+        "table": 6
+      },
+      "3": {
+        "name": "David Koutesh [CZ]",
+        "result": "W",
+        "table": 9
+      },
+      "4": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "W",
+        "table": 10
+      },
+      "5": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "W",
+        "table": 7
+      },
+      "6": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 6
+      },
+      "7": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "W",
+        "table": 10
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 5
+      }
+    }
+  },
+  {
+    "name": "Rinya Kobayashi [JP]",
+    "placing": 10,
+    "record": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "W",
+        "table": 47
+      },
+      "2": {
+        "name": "Sam Pandelis [AU]",
+        "result": "W",
+        "table": 24
+      },
+      "3": {
+        "name": "Sho Ito [JP]",
+        "result": "W",
+        "table": 10
+      },
+      "4": {
+        "name": "Brady Smith [US]",
+        "result": "W",
+        "table": 5
+      },
+      "5": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "W",
+        "table": 6
+      },
+      "6": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 5
+      },
+      "7": {
+        "name": "Adrien Hurley [US]",
+        "result": "W",
+        "table": 9
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 7
+      }
+    }
+  },
+  {
+    "name": "David Koutesh [CZ]",
+    "placing": 11,
+    "record": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Tsubasa Kitaoka [JP]",
+        "result": "W",
+        "table": 59
+      },
+      "2": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "W",
+        "table": 5
+      },
+      "3": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 9
+      },
+      "4": {
+        "name": "Davide Carrer [IT]",
+        "result": "W",
+        "table": 31
+      },
+      "5": {
+        "name": "Paul Chua [US]",
+        "result": "W",
+        "table": 16
+      },
+      "6": {
+        "name": "Eric Rios [ES]",
+        "result": "W",
+        "table": 11
+      },
+      "7": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "W",
+        "table": 8
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 3
+      }
+    }
+  },
+  {
+    "name": "Roberto Parente [IT]",
+    "placing": 12,
+    "record": {
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Alfredo Chang-Gonzalez [AU]",
+        "result": "W",
+        "table": 49
+      },
+      "2": {
+        "name": "Giovanni Piscitelli [IT]",
+        "result": "W",
+        "table": 28
+      },
+      "3": {
+        "name": "James Baek [US]",
+        "result": "W",
+        "table": 16
+      },
+      "4": {
+        "name": "Chuppa Cross [US]",
+        "result": "W",
+        "table": 7
+      },
+      "5": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "W",
+        "table": 8
+      },
+      "6": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "W",
+        "table": 6
+      },
+      "7": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 5
+      },
+      "8": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "9": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 4
+      }
+    }
+  },
+  {
+    "name": "Eric Rios [ES]",
+    "placing": 13,
+    "record": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Chongjun Peng [CN]",
+        "result": "L",
+        "table": 41
+      },
+      "2": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "W",
+        "table": 53
+      },
+      "3": {
+        "name": "Pan Si Ming [HK]",
+        "result": "W",
+        "table": 36
+      },
+      "4": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "W",
+        "table": 30
+      },
+      "5": {
+        "name": "Markus Stadter [DE]",
+        "result": "W",
+        "table": 15
+      },
+      "6": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 11
+      },
+      "7": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "W",
+        "table": 13
+      },
+      "8": {
+        "name": "Brady Smith [US]",
+        "result": "W",
+        "table": 10
+      },
+      "9": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 8
+      }
+    }
+  },
+  {
+    "name": "Flavio Del Pidio [IT]",
+    "placing": 14,
+    "record": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Szymon Wojdat [PL]",
+        "result": "W",
+        "table": 48
+      },
+      "2": {
+        "name": "Adrien Hurley [US]",
+        "result": "W",
+        "table": 16
+      },
+      "3": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "L",
+        "table": 19
+      },
+      "4": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "W",
+        "table": 19
+      },
+      "5": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "W",
+        "table": 22
+      },
+      "6": {
+        "name": "Joseph Ugarte [US]",
+        "result": "W",
+        "table": 9
+      },
+      "7": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 8
+      },
+      "8": {
+        "name": "Joseph Ugarte [US]",
+        "result": "W",
+        "table": 1
+      },
+      "9": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "Daniele Spuntarelli [IT]",
+    "placing": 15,
+    "record": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "W",
+        "table": 26
+      },
+      "2": {
+        "name": "Chongjun Peng [CN]",
+        "result": "W",
+        "table": 25
+      },
+      "3": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "W",
+        "table": 8
+      },
+      "4": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "L",
+        "table": 8
+      },
+      "5": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "L",
+        "table": 11
+      },
+      "6": {
+        "name": "Yuya Tada [JP]",
+        "result": "W",
+        "table": 29
+      },
+      "7": {
+        "name": "Markus Stadter [DE]",
+        "result": "W",
+        "table": 19
+      },
+      "8": {
+        "name": "Adrien Hurley [US]",
+        "result": "W",
+        "table": 8
+      },
+      "9": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 6
+      }
+    }
+  },
+  {
+    "name": "Ko Tsukide [JP]",
+    "placing": 16,
+    "record": {
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "L",
+        "table": 39
+      },
+      "2": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "W",
+        "table": 52
+      },
+      "3": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "W",
+        "table": 23
+      },
+      "4": {
+        "name": "Sho Ito [JP]",
+        "result": "W",
+        "table": 13
+      },
+      "5": {
+        "name": "Shohei Kimura [JP]",
+        "result": "L",
+        "table": 19
+      },
+      "6": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "W",
+        "table": 31
+      },
+      "7": {
+        "name": "Chuppa Cross [US]",
+        "result": "W",
+        "table": 23
+      },
+      "8": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "W",
+        "table": 2
+      },
+      "9": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 2
+      }
+    }
+  },
+  {
+    "name": "Tatsuya Watanuki [JP]",
+    "placing": 17,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Ashton Cox [US]",
+        "result": "W",
+        "table": 18
+      },
+      "2": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 32
+      },
+      "3": {
+        "name": "JEONGSO REE [KR]",
+        "result": "W",
+        "table": 31
+      },
+      "4": {
+        "name": "juan salerno [AR]",
+        "result": "W",
+        "table": 12
+      },
+      "5": {
+        "name": "Joji Kaieda [JP]",
+        "result": "W",
+        "table": 9
+      },
+      "6": {
+        "name": "Shohei Kimura [JP]",
+        "result": "W",
+        "table": 12
+      },
+      "7": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 7
+      },
+      "8": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 2
+      }
+    }
+  },
+  {
+    "name": "Leonardo Bonanomi [IT]",
+    "placing": 18,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "JEONGSO REE [KR]",
+        "result": "W",
+        "table": 56
+      },
+      "2": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "W",
+        "table": 12
+      },
+      "3": {
+        "name": "Go Hirabara [JP]",
+        "result": "W",
+        "table": 11
+      },
+      "4": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "W",
+        "table": 9
+      },
+      "5": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 7
+      },
+      "6": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 7
+      },
+      "7": {
+        "name": "Federico Camporesi [IT]",
+        "result": "W",
+        "table": 21
+      },
+      "8": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 3
+      }
+    }
+  },
+  {
+    "name": "Adrien Hurley [US]",
+    "placing": 19,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "W",
+        "table": 60
+      },
+      "2": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 16
+      },
+      "3": {
+        "name": "Luke Iuele [AU]",
+        "result": "W",
+        "table": 30
+      },
+      "4": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "W",
+        "table": 18
+      },
+      "5": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "W",
+        "table": 20
+      },
+      "6": {
+        "name": "Alex Soto [ES]",
+        "result": "W",
+        "table": 13
+      },
+      "7": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 9
+      },
+      "8": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 8
+      }
+    }
+  },
+  {
+    "name": "Yuma Kinugawa [JP]",
+    "placing": 20,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Motoki Agano [JP]",
+        "result": "W",
+        "table": 44
+      },
+      "2": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 20
+      },
+      "3": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "W",
+        "table": 20
+      },
+      "4": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 32
+      },
+      "5": {
+        "name": "Iago Pardo [ES]",
+        "result": "W",
+        "table": 42
+      },
+      "6": {
+        "name": "Kota Kawabe [JP]",
+        "result": "W",
+        "table": 26
+      },
+      "7": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "W",
+        "table": 11
+      },
+      "8": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 9
+      }
+    }
+  },
+  {
+    "name": "Shinichi Matsuda [JP]",
+    "placing": 21,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Takuma Yamane [JP]",
+        "result": "W",
+        "table": 24
+      },
+      "2": {
+        "name": "Iago Pardo [ES]",
+        "result": "W",
+        "table": 19
+      },
+      "3": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "W",
+        "table": 12
+      },
+      "4": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "W",
+        "table": 11
+      },
+      "5": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 6
+      },
+      "6": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "W",
+        "table": 14
+      },
+      "7": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 10
+      },
+      "8": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 6
+      }
+    }
+  },
+  {
+    "name": "Joseph Ugarte [US]",
+    "placing": 22,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Alex Soto [ES]",
+        "result": "L",
+        "table": 57
+      },
+      "2": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "W",
+        "table": 37
+      },
+      "3": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "W",
+        "table": 46
+      },
+      "4": {
+        "name": "Shoma Honami [JP]",
+        "result": "W",
+        "table": 24
+      },
+      "5": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "W",
+        "table": 17
+      },
+      "6": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 9
+      },
+      "7": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "W",
+        "table": 20
+      },
+      "8": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 1
+      }
+    }
+  },
+  {
+    "name": "Alex Soto [ES]",
+    "placing": 23,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Joseph Ugarte [US]",
+        "result": "W",
+        "table": 57
+      },
+      "2": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "W",
+        "table": 14
+      },
+      "3": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "L",
+        "table": 14
+      },
+      "4": {
+        "name": "François-Xavier de Lageneste [FR]",
+        "result": "W",
+        "table": 33
+      },
+      "5": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "W",
+        "table": 14
+      },
+      "6": {
+        "name": "Adrien Hurley [US]",
+        "result": "L",
+        "table": 13
+      },
+      "7": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "W",
+        "table": 24
+      },
+      "8": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 4
+      }
+    }
+  },
+  {
+    "name": "Nils Dunlop [SE]",
+    "placing": 24,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kaisei Ichikawa [JP]",
+        "result": "W",
+        "table": 8
+      },
+      "2": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "L",
+        "table": 26
+      },
+      "3": {
+        "name": "Taran Birdee [GB]",
+        "result": "W",
+        "table": 34
+      },
+      "4": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "W",
+        "table": 29
+      },
+      "5": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "W",
+        "table": 10
+      },
+      "6": {
+        "name": "Brady Smith [US]",
+        "result": "W",
+        "table": 8
+      },
+      "7": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 6
+      },
+      "8": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 5
+      }
+    }
+  },
+  {
+    "name": "Brady Smith [US]",
+    "placing": 25,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 12
+      },
+      "2": {
+        "name": "Shoma Honami [JP]",
+        "result": "W",
+        "table": 23
+      },
+      "3": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "W",
+        "table": 5
+      },
+      "4": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 5
+      },
+      "5": {
+        "name": "Chuppa Cross [US]",
+        "result": "W",
+        "table": 12
+      },
+      "6": {
+        "name": "Nils Dunlop [SE]",
+        "result": "L",
+        "table": 8
+      },
+      "7": {
+        "name": "CHYR WEI [TW]",
+        "result": "W",
+        "table": 22
+      },
+      "8": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 10
+      }
+    }
+  },
+  {
+    "name": "Motoki Agano [JP]",
+    "placing": 26,
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.25,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "L",
+        "table": 44
+      },
+      "2": {
+        "name": "Lukas Auer [AT]",
+        "result": "L",
+        "table": 39
+      },
+      "3": {
+        "name": "Kohei Fujita [JP]",
+        "result": "W",
+        "table": 52
+      },
+      "4": {
+        "name": "Ashton Cox [US]",
+        "result": "W",
+        "table": 40
+      },
+      "5": {
+        "name": "Go Hirabara [JP]",
+        "result": "W",
+        "table": 36
+      },
+      "6": {
+        "name": "Taro Okada [JP]",
+        "result": "W",
+        "table": 32
+      },
+      "7": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "W",
+        "table": 15
+      },
+      "8": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 7
+      }
+    }
+  },
+  {
+    "name": "Eisuke Nakayama [JP]",
+    "placing": 27,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.688775510204082,
+      "oppopp": 0.545918367346939
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 6
+      },
+      "2": {
+        "name": "Nils Dunlop [SE]",
+        "result": "W",
+        "table": 26
+      },
+      "3": {
+        "name": "Alex Soto [ES]",
+        "result": "W",
+        "table": 14
+      },
+      "4": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "W",
+        "table": 8
+      },
+      "5": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 5
+      },
+      "6": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "L",
+        "table": 14
+      },
+      "7": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "L",
+        "table": 11
+      }
+    }
+  },
+  {
+    "name": "Chaiyawat Traiwichcha [TH]",
+    "placing": 28,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.673469387755102,
+      "oppopp": 0.524198250728863
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Ko Tsukide [JP]",
+        "result": "W",
+        "table": 39
+      },
+      "2": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "W",
+        "table": 13
+      },
+      "3": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "L",
+        "table": 12
+      },
+      "4": {
+        "name": "Wataru Arai [JP]",
+        "result": "W",
+        "table": 28
+      },
+      "5": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 13
+      },
+      "6": {
+        "name": "Calvin Foster [GB]",
+        "result": "W",
+        "table": 15
+      },
+      "7": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 18
+      }
+    }
+  },
+  {
+    "name": "Tomoyuki Yoshimura [JP]",
+    "placing": 29,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.612244897959184,
+      "oppopp": 0.553012633624879
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "W",
+        "table": 40
+      },
+      "2": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "W",
+        "table": 27
+      },
+      "3": {
+        "name": "Yuya Tada [JP]",
+        "result": "W",
+        "table": 15
+      },
+      "4": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "L",
+        "table": 11
+      },
+      "5": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "W",
+        "table": 11
+      },
+      "6": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 10
+      },
+      "7": {
+        "name": "Joseph Ugarte [US]",
+        "result": "L",
+        "table": 20
+      }
+    }
+  },
+  {
+    "name": "Markus Stadter [DE]",
+    "placing": 30,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.612244897959184,
+      "oppopp": 0.543488824101069
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "juan salerno [AR]",
+        "result": "W",
+        "table": 54
+      },
+      "2": {
+        "name": "Luke Iuele [AU]",
+        "result": "W",
+        "table": 30
+      },
+      "3": {
+        "name": "Calvin Foster [GB]",
+        "result": "W",
+        "table": 13
+      },
+      "4": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 6
+      },
+      "5": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 15
+      },
+      "6": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "W",
+        "table": 18
+      },
+      "7": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 19
+      }
+    }
+  },
+  {
+    "name": "Shohei Kimura [JP]",
+    "placing": 31,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.612244897959184,
+      "oppopp": 0.532555879494655
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Joji Kaieda [JP]",
+        "result": "W",
+        "table": 31
+      },
+      "2": {
+        "name": "Taran Birdee [GB]",
+        "result": "W",
+        "table": 7
+      },
+      "3": {
+        "name": "Chuppa Cross [US]",
+        "result": "L",
+        "table": 7
+      },
+      "4": {
+        "name": "Raghav Malaviya [US]",
+        "result": "W",
+        "table": 17
+      },
+      "5": {
+        "name": "Ko Tsukide [JP]",
+        "result": "W",
+        "table": 19
+      },
+      "6": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "L",
+        "table": 12
+      },
+      "7": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 16
+      }
+    }
+  },
+  {
+    "name": "Chuppa Cross [US]",
+    "placing": 32,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.612244897959184,
+      "oppopp": 0.528571428571429
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "W",
+        "table": 34
+      },
+      "2": {
+        "name": "James Evans [US]",
+        "result": "W",
+        "table": 21
+      },
+      "3": {
+        "name": "Shohei Kimura [JP]",
+        "result": "W",
+        "table": 7
+      },
+      "4": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 7
+      },
+      "5": {
+        "name": "Brady Smith [US]",
+        "result": "L",
+        "table": 12
+      },
+      "6": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "W",
+        "table": 27
+      },
+      "7": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 23
+      }
+    }
+  },
+  {
+    "name": "Yosuke Takayanagi [JP]",
+    "placing": 33,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.608163265306122,
+      "oppopp": 0.540349854227405
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Davide Carrer [IT]",
+        "result": "W",
+        "table": 51
+      },
+      "2": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "W",
+        "table": 29
+      },
+      "3": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 8
+      },
+      "4": {
+        "name": "Enzo Reci [US]",
+        "result": "W",
+        "table": 23
+      },
+      "5": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 8
+      },
+      "6": {
+        "name": "juan salerno [AR]",
+        "result": "W",
+        "table": 22
+      },
+      "7": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 13
+      }
+    }
+  },
+  {
+    "name": "Francesco Luigi Pardini [IT]",
+    "placing": 34,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.566326530612245,
+      "oppopp": 0.513848396501458
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 5
+      },
+      "2": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 46
+      },
+      "3": {
+        "name": "Raghav Malaviya [US]",
+        "result": "L",
+        "table": 22
+      },
+      "4": {
+        "name": "Pan Si Ming [HK]",
+        "result": "W",
+        "table": 48
+      },
+      "5": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 24
+      },
+      "6": {
+        "name": "Mattie Morgan [IE]",
+        "result": "W",
+        "table": 37
+      },
+      "7": {
+        "name": "Go Hirabara [JP]",
+        "result": "W",
+        "table": 26
+      }
+    }
+  },
+  {
+    "name": "Federico Camporesi [IT]",
+    "placing": 35,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.557823129251701,
+      "oppopp": 0.553814382896016
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Sam Pandelis [AU]",
+        "result": "L",
+        "table": 37
+      },
+      "2": {
+        "name": "Ashton Cox [US]",
+        "result": "W",
+        "table": 40
+      },
+      "3": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "W",
+        "table": 42
+      },
+      "4": {
+        "name": "CHYR WEI [TW]",
+        "result": "W",
+        "table": 15
+      },
+      "5": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 18
+      },
+      "6": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "W",
+        "table": 33
+      },
+      "7": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "L",
+        "table": 21
+      }
+    }
+  },
+  {
+    "name": "Luca Ceribelli [IT]",
+    "placing": 36,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.557823129251701,
+      "oppopp": 0.531867508908325
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "W",
+        "table": 21
+      },
+      "2": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 5
+      },
+      "3": {
+        "name": "Joseph Ugarte [US]",
+        "result": "L",
+        "table": 46
+      },
+      "4": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "W",
+        "table": 39
+      },
+      "5": {
+        "name": "Paul Ruiz [EC]",
+        "result": "W",
+        "table": 29
+      },
+      "6": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "W",
+        "table": 28
+      },
+      "7": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 17
+      }
+    }
+  },
+  {
+    "name": "Joaquín Blanch [ES]",
+    "placing": 37,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.551020408163265,
+      "oppopp": 0.520796890184645
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Ben Grissmer [US]",
+        "result": "W",
+        "table": 28
+      },
+      "2": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "W",
+        "table": 17
+      },
+      "3": {
+        "name": "Taro Okada [JP]",
+        "result": "W",
+        "table": 18
+      },
+      "4": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "L",
+        "table": 9
+      },
+      "5": {
+        "name": "Joseph Ugarte [US]",
+        "result": "L",
+        "table": 17
+      },
+      "6": {
+        "name": "Federico Camporesi [IT]",
+        "result": "L",
+        "table": 33
+      },
+      "7": {
+        "name": "Taran Birdee [GB]",
+        "result": "W",
+        "table": 28
+      }
+    }
+  },
+  {
+    "name": "Jeremy Rodrigues [US]",
+    "placing": 38,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.551020408163265,
+      "oppopp": 0.509718172983479
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Mattie Morgan [IE]",
+        "result": "W",
+        "table": 33
+      },
+      "2": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 15
+      },
+      "3": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 44
+      },
+      "4": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "W",
+        "table": 41
+      },
+      "5": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "W",
+        "table": 43
+      },
+      "6": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "W",
+        "table": 25
+      },
+      "7": {
+        "name": "Motoki Agano [JP]",
+        "result": "L",
+        "table": 15
+      }
+    }
+  },
+  {
+    "name": "Sho Ito [JP]",
+    "placing": 39,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.546938775510204,
+      "oppopp": 0.515179786200194
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kohei Fujita [JP]",
+        "result": "W",
+        "table": 53
+      },
+      "2": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "W",
+        "table": 33
+      },
+      "3": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 10
+      },
+      "4": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 13
+      },
+      "5": {
+        "name": "Kazuki Kobayashi [JP]",
+        "result": "W",
+        "table": 40
+      },
+      "6": {
+        "name": "Naoya Takasago [JP]",
+        "result": "W",
+        "table": 20
+      },
+      "7": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 12
+      }
+    }
+  },
+  {
+    "name": "Raghav Malaviya [US]",
+    "placing": 40,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.530612244897959,
+      "oppopp": 0.548104956268222
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Taran Birdee [GB]",
+        "result": "L",
+        "table": 61
+      },
+      "2": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "W",
+        "table": 48
+      },
+      "3": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "W",
+        "table": 22
+      },
+      "4": {
+        "name": "Shohei Kimura [JP]",
+        "result": "L",
+        "table": 17
+      },
+      "5": {
+        "name": "Lukas Auer [AT]",
+        "result": "W",
+        "table": 25
+      },
+      "6": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "L",
+        "table": 19
+      },
+      "7": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "W",
+        "table": 34
+      }
+    }
+  },
+  {
+    "name": "James Evans [US]",
+    "placing": 41,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.526530612244898,
+      "oppopp": 0.52508260447036
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Henry Rich [AU]",
+        "result": "W",
+        "table": 9
+      },
+      "2": {
+        "name": "Chuppa Cross [US]",
+        "result": "L",
+        "table": 21
+      },
+      "3": {
+        "name": "Oliver Eskolin [FI]",
+        "result": "W",
+        "table": 28
+      },
+      "4": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "L",
+        "table": 14
+      },
+      "5": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "W",
+        "table": 34
+      },
+      "6": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 21
+      },
+      "7": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "W",
+        "table": 38
+      }
+    }
+  },
+  {
+    "name": "Alex DellaPasqua [IT]",
+    "placing": 42,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.525510204081633,
+      "oppopp": 0.54913508260447
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "L",
+        "table": 25
+      },
+      "2": {
+        "name": "Takuma Yamane [JP]",
+        "result": "W",
+        "table": 58
+      },
+      "3": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "W",
+        "table": 19
+      },
+      "4": {
+        "name": "James Evans [US]",
+        "result": "W",
+        "table": 14
+      },
+      "5": {
+        "name": "Adrien Hurley [US]",
+        "result": "L",
+        "table": 20
+      },
+      "6": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "L",
+        "table": 28
+      },
+      "7": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "W",
+        "table": 29
+      }
+    }
+  },
+  {
+    "name": "Naoya Takasago [JP]",
+    "placing": 43,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.511904761904762,
+      "oppopp": 0.540844671201814
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "W",
+        "table": 43
+      },
+      "2": {
+        "name": "Diego Ferreira [AU]",
+        "result": "W",
+        "table": 22
+      },
+      "3": {
+        "name": "Eduardo Cunha [PT]",
+        "result": "L",
+        "table": 6
+      },
+      "4": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "L",
+        "table": 22
+      },
+      "5": {
+        "name": "nicolas del campo [CL]",
+        "result": "W",
+        "table": 23
+      },
+      "6": {
+        "name": "Sho Ito [JP]",
+        "result": "L",
+        "table": 20
+      },
+      "7": {
+        "name": "Yuya Tada [JP]",
+        "result": "W",
+        "table": 35
+      }
+    }
+  },
+  {
+    "name": "CHYR WEI [TW]",
+    "placing": 44,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.505102040816327,
+      "oppopp": 0.501336248785228
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Giovanni Piscitelli [IT]",
+        "result": "L",
+        "table": 52
+      },
+      "2": {
+        "name": "Mattie Morgan [IE]",
+        "result": "W",
+        "table": 43
+      },
+      "3": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "W",
+        "table": 26
+      },
+      "4": {
+        "name": "Federico Camporesi [IT]",
+        "result": "L",
+        "table": 15
+      },
+      "5": {
+        "name": "Zach Gray [US]",
+        "result": "W",
+        "table": 32
+      },
+      "6": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "W",
+        "table": 16
+      },
+      "7": {
+        "name": "Brady Smith [US]",
+        "result": "L",
+        "table": 22
+      }
+    }
+  },
+  {
+    "name": "Kiwamu Endo [JP]",
+    "placing": 45,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.496598639455782,
+      "oppopp": 0.514925494007127
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "W",
+        "table": 14
+      },
+      "2": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "L",
+        "table": 12
+      },
+      "3": {
+        "name": "CHYR WEI [TW]",
+        "result": "L",
+        "table": 26
+      },
+      "4": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "W",
+        "table": 49
+      },
+      "5": {
+        "name": "Nathan Ortiz [US]",
+        "result": "W",
+        "table": 27
+      },
+      "6": {
+        "name": "Raghav Malaviya [US]",
+        "result": "W",
+        "table": 19
+      },
+      "7": {
+        "name": "Alex Soto [ES]",
+        "result": "L",
+        "table": 24
+      }
+    }
+  },
+  {
+    "name": "Gabriel Agati Madeira [BR]",
+    "placing": 46,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.496598639455782,
+      "oppopp": 0.504073534175575
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Naoya Takasago [JP]",
+        "result": "L",
+        "table": 43
+      },
+      "2": {
+        "name": "Kohei Fujita [JP]",
+        "result": "W",
+        "table": 55
+      },
+      "3": {
+        "name": "Paul Ruiz [EC]",
+        "result": "W",
+        "table": 41
+      },
+      "4": {
+        "name": "Taro Okada [JP]",
+        "result": "W",
+        "table": 27
+      },
+      "5": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 22
+      },
+      "6": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 24
+      },
+      "7": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "W",
+        "table": 40
+      }
+    }
+  },
+  {
+    "name": "Kota Kawabe [JP]",
+    "placing": 47,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.492517006802721,
+      "oppopp": 0.53384677680596
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kazuki Kobayashi [JP]",
+        "result": "W",
+        "table": 20
+      },
+      "2": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "L",
+        "table": 31
+      },
+      "3": {
+        "name": "Nathan Ortiz [US]",
+        "result": "W",
+        "table": 27
+      },
+      "4": {
+        "name": "Go Hirabara [JP]",
+        "result": "W",
+        "table": 25
+      },
+      "5": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 21
+      },
+      "6": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "L",
+        "table": 26
+      },
+      "7": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "W",
+        "table": 31
+      }
+    }
+  },
+  {
+    "name": "Andrea Cassinese [IT]",
+    "placing": 48,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.491496598639456,
+      "oppopp": 0.605952380952381
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Jack Gilbert [AU]",
+        "result": "W",
+        "table": 42
+      },
+      "2": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 9
+      },
+      "3": {
+        "name": "Sam Pandelis [AU]",
+        "result": "W",
+        "table": 39
+      },
+      "4": {
+        "name": "Yuya Tada [JP]",
+        "result": "W",
+        "table": 16
+      },
+      "5": {
+        "name": "Nils Dunlop [SE]",
+        "result": "L",
+        "table": 10
+      },
+      "6": {
+        "name": "CHYR WEI [TW]",
+        "result": "L",
+        "table": 16
+      },
+      "7": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "W",
+        "table": 39
+      }
+    }
+  },
+  {
+    "name": "Joji Kaieda [JP]",
+    "placing": 49,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.48469387755102,
+      "oppopp": 0.543411078717201
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Shohei Kimura [JP]",
+        "result": "L",
+        "table": 31
+      },
+      "2": {
+        "name": "Kiyoshiro Arai [JP]",
+        "result": "W",
+        "table": 60
+      },
+      "3": {
+        "name": "Iago Pardo [ES]",
+        "result": "W",
+        "table": 37
+      },
+      "4": {
+        "name": "Chongjun Peng [CN]",
+        "result": "W",
+        "table": 20
+      },
+      "5": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "L",
+        "table": 9
+      },
+      "6": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "W",
+        "table": 17
+      },
+      "7": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 14
+      }
+    }
+  },
+  {
+    "name": "Taro Okada [JP]",
+    "placing": 50,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.472108843537415,
+      "oppopp": 0.501734693877551
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "W",
+        "table": 38
+      },
+      "2": {
+        "name": "Oliver Eskolin [FI]",
+        "result": "W",
+        "table": 11
+      },
+      "3": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "L",
+        "table": 18
+      },
+      "4": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "L",
+        "table": 27
+      },
+      "5": {
+        "name": "Sam Pandelis [AU]",
+        "result": "W",
+        "table": 35
+      },
+      "6": {
+        "name": "Motoki Agano [JP]",
+        "result": "L",
+        "table": 32
+      },
+      "7": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "W",
+        "table": 25
+      }
+    }
+  },
+  {
+    "name": "Wataru Arai [JP]",
+    "placing": 51,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.460204081632653,
+      "oppopp": 0.499572400388727
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Oliver Eskolin [FI]",
+        "result": "L",
+        "table": 55
+      },
+      "2": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 47
+      },
+      "3": {
+        "name": "Ben Grissmer [US]",
+        "result": "W",
+        "table": 43
+      },
+      "4": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "L",
+        "table": 28
+      },
+      "5": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "W",
+        "table": 26
+      },
+      "6": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 30
+      },
+      "7": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "W",
+        "table": 27
+      }
+    }
+  },
+  {
+    "name": "Henry Rich [AU]",
+    "placing": 52,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.451700680272109,
+      "oppopp": 0.486128927761581
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "James Evans [US]",
+        "result": "L",
+        "table": 9
+      },
+      "2": {
+        "name": "nicolas del campo [CL]",
+        "result": "L",
+        "table": 44
+      },
+      "3": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "W",
+        "table": 51
+      },
+      "4": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "W",
+        "table": 43
+      },
+      "5": {
+        "name": "Oliver Eskolin [FI]",
+        "result": "W",
+        "table": 38
+      },
+      "6": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 23
+      },
+      "7": {
+        "name": "Ashton Cox [US]",
+        "result": "W",
+        "table": 30
+      }
+    }
+  },
+  {
+    "name": "JEONGSO REE [KR]",
+    "placing": 53,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.443877551020408,
+      "oppopp": 0.522108843537415
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "L",
+        "table": 56
+      },
+      "2": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 41
+      },
+      "3": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "L",
+        "table": 31
+      },
+      "4": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "W",
+        "table": 38
+      },
+      "5": {
+        "name": "juan salerno [AR]",
+        "result": "L",
+        "table": 37
+      },
+      "6": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "W",
+        "table": 41
+      },
+      "7": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "W",
+        "table": 32
+      }
+    }
+  },
+  {
+    "name": "Pan Si Ming [HK]",
+    "placing": 54,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.438775510204082,
+      "oppopp": 0.481073858114674
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Yuya Tada [JP]",
+        "result": "L",
+        "table": 29
+      },
+      "2": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 54
+      },
+      "3": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 36
+      },
+      "4": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "L",
+        "table": 48
+      },
+      "5": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 46
+      },
+      "6": {
+        "name": "Shoma Honami [JP]",
+        "result": "W",
+        "table": 42
+      },
+      "7": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "W",
+        "table": 33
+      }
+    }
+  },
+  {
+    "name": "Ben Grissmer [US]",
+    "placing": 55,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.403061224489796,
+      "oppopp": 0.494375607385811
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "L",
+        "table": 28
+      },
+      "2": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "W",
+        "table": 49
+      },
+      "3": {
+        "name": "Wataru Arai [JP]",
+        "result": "L",
+        "table": 43
+      },
+      "4": {
+        "name": "Diego Ferreira [AU]",
+        "result": "W",
+        "table": 50
+      },
+      "5": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "L",
+        "table": 31
+      },
+      "6": {
+        "name": "Iago Pardo [ES]",
+        "result": "W",
+        "table": 43
+      },
+      "7": {
+        "name": "juan salerno [AR]",
+        "result": "W",
+        "table": 37
+      }
+    }
+  },
+  {
+    "name": "Yusuke Shibano [JP]",
+    "placing": 56,
+    "record": {
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.571428571428571,
+      "opp": 0.369047619047619,
+      "oppopp": 0.487732426303855
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "L",
+        "table": 35
+      },
+      "2": {
+        "name": "Javier Valdés [CL]",
+        "result": "W",
+        "table": 45
+      },
+      "3": {
+        "name": "juan salerno [AR]",
+        "result": "L",
+        "table": 45
+      },
+      "4": {
+        "name": "nicolas del campo [CL]",
+        "result": "L",
+        "table": 45
+      },
+      "5": {
+        "name": "Takuma Yamane [JP]",
+        "result": "W",
+        "table": 51
+      },
+      "6": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "W",
+        "table": 34
+      },
+      "7": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "W",
+        "table": 36
+      }
+    }
+  },
+  {
+    "name": "Kentaro Matsumoto [JP]",
+    "placing": 57,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.612244897959184,
+      "oppopp": 0.503061224489796
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Zach Gray [US]",
+        "result": "W",
+        "table": 11
+      },
+      "2": {
+        "name": "Kota Kawabe [JP]",
+        "result": "W",
+        "table": 31
+      },
+      "3": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 17
+      },
+      "4": {
+        "name": "Naoya Takasago [JP]",
+        "result": "W",
+        "table": 22
+      },
+      "5": {
+        "name": "Alex Soto [ES]",
+        "result": "L",
+        "table": 14
+      },
+      "6": {
+        "name": "Joji Kaieda [JP]",
+        "result": "L",
+        "table": 17
+      },
+      "7": {
+        "name": "Raghav Malaviya [US]",
+        "result": "L",
+        "table": 34
+      }
+    }
+  },
+  {
+    "name": "Alex Gómez Berna [ES]",
+    "placing": 58,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.551020408163265,
+      "oppopp": 0.515063168124393
+    },
+    "decklist": "",
+    "drop": 7,
+    "rounds": {
+      "1": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "W",
+        "table": 35
+      },
+      "2": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "L",
+        "table": 27
+      },
+      "3": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "W",
+        "table": 33
+      },
+      "4": {
+        "name": "Adrien Hurley [US]",
+        "result": "L",
+        "table": 18
+      },
+      "5": {
+        "name": "Chongjun Peng [CN]",
+        "result": "W",
+        "table": 30
+      },
+      "6": {
+        "name": "Chuppa Cross [US]",
+        "result": "L",
+        "table": 27
+      },
+      "7": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "L",
+        "table": 39
+      }
+    }
+  },
+  {
+    "name": "Yuya Tada [JP]",
+    "placing": 59,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.546938775510204,
+      "oppopp": 0.497687074829932
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Pan Si Ming [HK]",
+        "result": "W",
+        "table": 29
+      },
+      "2": {
+        "name": "Enzo Reci [US]",
+        "result": "W",
+        "table": 10
+      },
+      "3": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "L",
+        "table": 15
+      },
+      "4": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "L",
+        "table": 16
+      },
+      "5": {
+        "name": "Shoma Honami [JP]",
+        "result": "W",
+        "table": 28
+      },
+      "6": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 29
+      },
+      "7": {
+        "name": "Naoya Takasago [JP]",
+        "result": "L",
+        "table": 35
+      }
+    }
+  },
+  {
+    "name": "juan salerno [AR]",
+    "placing": 60,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.545918367346939,
+      "oppopp": 0.497562358276644
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Markus Stadter [DE]",
+        "result": "L",
+        "table": 54
+      },
+      "2": {
+        "name": "Federico Isola [IT]",
+        "result": "W",
+        "table": 50
+      },
+      "3": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "W",
+        "table": 45
+      },
+      "4": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "L",
+        "table": 12
+      },
+      "5": {
+        "name": "JEONGSO REE [KR]",
+        "result": "W",
+        "table": 37
+      },
+      "6": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "L",
+        "table": 22
+      },
+      "7": {
+        "name": "Ben Grissmer [US]",
+        "result": "L",
+        "table": 37
+      }
+    }
+  },
+  {
+    "name": "Joonas Hakalahti [FI]",
+    "placing": 61,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.533333333333333,
+      "oppopp": 0.475254292193068
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Tomoyuki Yoshimura [JP]",
+        "result": "L",
+        "table": 40
+      },
+      "2": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "W",
+        "table": 56
+      },
+      "3": {
+        "name": "nicolas del campo [CL]",
+        "result": "W",
+        "table": 38
+      },
+      "4": {
+        "name": "Eric Rios [ES]",
+        "result": "L",
+        "table": 30
+      },
+      "5": {
+        "name": "Enzo Reci [US]",
+        "result": "W",
+        "table": 39
+      },
+      "6": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 31
+      },
+      "7": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "L",
+        "table": 36
+      }
+    }
+  },
+  {
+    "name": "Marco Hemantha Kaludura Silva [IT]",
+    "placing": 62,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.530612244897959,
+      "oppopp": 0.504033041788144
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Calvin Foster [GB]",
+        "result": "L",
+        "table": 58
+      },
+      "2": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "W",
+        "table": 42
+      },
+      "3": {
+        "name": "Federico Camporesi [IT]",
+        "result": "L",
+        "table": 42
+      },
+      "4": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "W",
+        "table": 46
+      },
+      "5": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "W",
+        "table": 33
+      },
+      "6": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "L",
+        "table": 25
+      },
+      "7": {
+        "name": "James Evans [US]",
+        "result": "L",
+        "table": 38
+      }
+    }
+  },
+  {
+    "name": "Jirawiwat Thitasiri [TH]",
+    "placing": 63,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.525510204081633,
+      "oppopp": 0.528474246841594
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "François-Xavier de Lageneste [FR]",
+        "result": "W",
+        "table": 50
+      },
+      "2": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "L",
+        "table": 29
+      },
+      "3": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "W",
+        "table": 40
+      },
+      "4": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 21
+      },
+      "5": {
+        "name": "James Evans [US]",
+        "result": "L",
+        "table": 34
+      },
+      "6": {
+        "name": "Chongjun Peng [CN]",
+        "result": "W",
+        "table": 45
+      },
+      "7": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "L",
+        "table": 29
+      }
+    }
+  },
+  {
+    "name": "Alessio Yuri Boschetto [IT]",
+    "placing": 64,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.525510204081633,
+      "oppopp": 0.521404275996113
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "W",
+        "table": 25
+      },
+      "2": {
+        "name": "Alex Soto [ES]",
+        "result": "L",
+        "table": 14
+      },
+      "3": {
+        "name": "Giovanni Piscitelli [IT]",
+        "result": "W",
+        "table": 35
+      },
+      "4": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 26
+      },
+      "5": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "L",
+        "table": 33
+      },
+      "6": {
+        "name": "Zach Gray [US]",
+        "result": "W",
+        "table": 40
+      },
+      "7": {
+        "name": "Kota Kawabe [JP]",
+        "result": "L",
+        "table": 31
+      }
+    }
+  },
+  {
+    "name": "Lukas Auer [AT]",
+    "placing": 65,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.525510204081633,
+      "oppopp": 0.512633624878523
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Guillermo Castilla [ES]",
+        "result": "L",
+        "table": 17
+      },
+      "2": {
+        "name": "Motoki Agano [JP]",
+        "result": "W",
+        "table": 39
+      },
+      "3": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "L",
+        "table": 32
+      },
+      "4": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 37
+      },
+      "5": {
+        "name": "Raghav Malaviya [US]",
+        "result": "L",
+        "table": 25
+      },
+      "6": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 47
+      },
+      "7": {
+        "name": "Luke Iuele [AU]",
+        "result": "W",
+        "table": 42
+      }
+    }
+  },
+  {
+    "name": "Ashton Cox [US]",
+    "placing": 66,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.517006802721088,
+      "oppopp": 0.50739390994493
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Tatsuya Watanuki [JP]",
+        "result": "L",
+        "table": 18
+      },
+      "2": {
+        "name": "Federico Camporesi [IT]",
+        "result": "L",
+        "table": 40
+      },
+      "3": {
+        "name": "Mattie Morgan [IE]",
+        "result": "W",
+        "table": 55
+      },
+      "4": {
+        "name": "Motoki Agano [JP]",
+        "result": "L",
+        "table": 40
+      },
+      "5": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "W",
+        "table": 49
+      },
+      "6": {
+        "name": "Nathan Ortiz [US]",
+        "result": "W",
+        "table": 35
+      },
+      "7": {
+        "name": "Henry Rich [AU]",
+        "result": "L",
+        "table": 30
+      }
+    }
+  },
+  {
+    "name": "Go Hirabara [JP]",
+    "placing": 67,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.510204081632653,
+      "oppopp": 0.504518950437318
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "W",
+        "table": 22
+      },
+      "2": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "W",
+        "table": 18
+      },
+      "3": {
+        "name": "Leonardo Bonanomi [IT]",
+        "result": "L",
+        "table": 11
+      },
+      "4": {
+        "name": "Kota Kawabe [JP]",
+        "result": "L",
+        "table": 25
+      },
+      "5": {
+        "name": "Motoki Agano [JP]",
+        "result": "L",
+        "table": 36
+      },
+      "6": {
+        "name": "Luke Iuele [AU]",
+        "result": "W",
+        "table": 36
+      },
+      "7": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "L",
+        "table": 26
+      }
+    }
+  },
+  {
+    "name": "Chongjun Peng [CN]",
+    "placing": 68,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.48469387755102,
+      "oppopp": 0.507106413994169
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Eric Rios [ES]",
+        "result": "W",
+        "table": 41
+      },
+      "2": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 25
+      },
+      "3": {
+        "name": "James Katsaros [AU]",
+        "result": "W",
+        "table": 21
+      },
+      "4": {
+        "name": "Joji Kaieda [JP]",
+        "result": "L",
+        "table": 20
+      },
+      "5": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "L",
+        "table": 30
+      },
+      "6": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "L",
+        "table": 45
+      },
+      "7": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "W",
+        "table": 43
+      }
+    }
+  },
+  {
+    "name": "Taran Birdee [GB]",
+    "placing": 69,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.477891156462585,
+      "oppopp": 0.512531584062196
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Raghav Malaviya [US]",
+        "result": "W",
+        "table": 61
+      },
+      "2": {
+        "name": "Shohei Kimura [JP]",
+        "result": "L",
+        "table": 7
+      },
+      "3": {
+        "name": "Nils Dunlop [SE]",
+        "result": "L",
+        "table": 34
+      },
+      "4": {
+        "name": "Nathan Ortiz [US]",
+        "result": "L",
+        "table": 35
+      },
+      "5": {
+        "name": "Kiyoshiro Arai [JP]",
+        "result": "W",
+        "table": 53
+      },
+      "6": {
+        "name": "nicolas del campo [CL]",
+        "result": "W",
+        "table": 38
+      },
+      "7": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "L",
+        "table": 28
+      }
+    }
+  },
+  {
+    "name": "Naoyuki Matsuhashi [JP]",
+    "placing": 70,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.47108843537415,
+      "oppopp": 0.468294460641399
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Daniele Spuntarelli [IT]",
+        "result": "L",
+        "table": 26
+      },
+      "2": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "L",
+        "table": 36
+      },
+      "3": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 50
+      },
+      "4": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 54
+      },
+      "5": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "W",
+        "table": 54
+      },
+      "6": {
+        "name": "Sam Pandelis [AU]",
+        "result": "W",
+        "table": 46
+      },
+      "7": {
+        "name": "JEONGSO REE [KR]",
+        "result": "L",
+        "table": 32
+      }
+    }
+  },
+  {
+    "name": "Tatsuki Wakita [JP]",
+    "placing": 71,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.464285714285714,
+      "oppopp": 0.48824101068999
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "L",
+        "table": 21
+      },
+      "2": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 52
+      },
+      "3": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 53
+      },
+      "4": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "L",
+        "table": 41
+      },
+      "5": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "W",
+        "table": 44
+      },
+      "6": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "W",
+        "table": 44
+      },
+      "7": {
+        "name": "Taro Okada [JP]",
+        "result": "L",
+        "table": 25
+      }
+    }
+  },
+  {
+    "name": "Shoma Honami [JP]",
+    "placing": 72,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.459183673469388,
+      "oppopp": 0.486844023323615
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 16
+      },
+      "2": {
+        "name": "Brady Smith [US]",
+        "result": "L",
+        "table": 23
+      },
+      "3": {
+        "name": "Diego Ferreira [AU]",
+        "result": "W",
+        "table": 29
+      },
+      "4": {
+        "name": "Joseph Ugarte [US]",
+        "result": "L",
+        "table": 24
+      },
+      "5": {
+        "name": "Yuya Tada [JP]",
+        "result": "L",
+        "table": 28
+      },
+      "6": {
+        "name": "Pan Si Ming [HK]",
+        "result": "L",
+        "table": 42
+      },
+      "7": {
+        "name": "Iago Pardo [ES]",
+        "result": "W",
+        "table": 46
+      }
+    }
+  },
+  {
+    "name": "WONSEOK JUNG [KR]",
+    "placing": 73,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.45578231292517,
+      "oppopp": 0.493302559118886
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Nathan Ortiz [US]",
+        "result": "W",
+        "table": 23
+      },
+      "2": {
+        "name": "Go Hirabara [JP]",
+        "result": "L",
+        "table": 18
+      },
+      "3": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "L",
+        "table": 40
+      },
+      "4": {
+        "name": "Luke Iuele [AU]",
+        "result": "W",
+        "table": 47
+      },
+      "5": {
+        "name": "Ben Grissmer [US]",
+        "result": "W",
+        "table": 31
+      },
+      "6": {
+        "name": "Markus Stadter [DE]",
+        "result": "L",
+        "table": 18
+      },
+      "7": {
+        "name": "Wataru Arai [JP]",
+        "result": "L",
+        "table": 27
+      }
+    }
+  },
+  {
+    "name": "Mattie Morgan [IE]",
+    "placing": 74,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.448979591836735,
+      "oppopp": 0.467006802721088
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "L",
+        "table": 33
+      },
+      "2": {
+        "name": "CHYR WEI [TW]",
+        "result": "L",
+        "table": 43
+      },
+      "3": {
+        "name": "Ashton Cox [US]",
+        "result": "L",
+        "table": 55
+      },
+      "4": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "W",
+        "table": 59
+      },
+      "5": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "W",
+        "table": 45
+      },
+      "6": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "L",
+        "table": 37
+      },
+      "7": {
+        "name": "Javier Valdés [CL]",
+        "result": "W",
+        "table": 44
+      }
+    }
+  },
+  {
+    "name": "Heriberto Pacaje [CL]",
+    "placing": 75,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.423469387755102,
+      "oppopp": 0.471655328798186
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "W",
+        "table": 7
+      },
+      "2": {
+        "name": "Chaiyawat Traiwichcha [TH]",
+        "result": "L",
+        "table": 13
+      },
+      "3": {
+        "name": "Alex Gómez Berna [ES]",
+        "result": "L",
+        "table": 33
+      },
+      "4": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "L",
+        "table": 46
+      },
+      "5": {
+        "name": "joaquin salerno [AR]",
+        "result": "W",
+        "table": 52
+      },
+      "6": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "L",
+        "table": 34
+      },
+      "7": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "W",
+        "table": 47
+      }
+    }
+  },
+  {
+    "name": "Kevin Ngim Bin Sani Ng [MY]",
+    "placing": 76,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.414965986394558,
+      "oppopp": 0.495084224165857
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "L",
+        "table": 32
+      },
+      "2": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "W",
+        "table": 36
+      },
+      "3": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 25
+      },
+      "4": {
+        "name": "Iago Pardo [ES]",
+        "result": "L",
+        "table": 36
+      },
+      "5": {
+        "name": "Kohei Fujita [JP]",
+        "result": "W",
+        "table": 50
+      },
+      "6": {
+        "name": "Paul Ruiz [EC]",
+        "result": "W",
+        "table": 39
+      },
+      "7": {
+        "name": "Pan Si Ming [HK]",
+        "result": "L",
+        "table": 33
+      }
+    }
+  },
+  {
+    "name": "Yuhi Kawaide [JP]",
+    "placing": 77,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.372448979591837,
+      "oppopp": 0.482734045999352
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Chuppa Cross [US]",
+        "result": "L",
+        "table": 34
+      },
+      "2": {
+        "name": "Marco Hemantha Kaludura Silva [IT]",
+        "result": "L",
+        "table": 42
+      },
+      "3": {
+        "name": "Henry Rich [AU]",
+        "result": "L",
+        "table": 51
+      },
+      "4": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "L",
+        "table": 56
+      },
+      "5": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 56
+      },
+      "6": {
+        "name": "joaquin salerno [AR]",
+        "result": "W",
+        "table": 53
+      },
+      "7": {
+        "name": "Kaoru Ueki [JP]",
+        "result": "W",
+        "table": 41
+      }
+    }
+  },
+  {
+    "name": "Zach Gray [US]",
+    "placing": 78,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.363945578231293,
+      "oppopp": 0.491435860058309
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kentaro Matsumoto [JP]",
+        "result": "L",
+        "table": 11
+      },
+      "2": {
+        "name": "Paul Ruiz [EC]",
+        "result": "L",
+        "table": 35
+      },
+      "3": {
+        "name": "Kaisei Ichikawa [JP]",
+        "result": "W",
+        "table": 48
+      },
+      "4": {
+        "name": "joaquin salerno [AR]",
+        "result": "W",
+        "table": 52
+      },
+      "5": {
+        "name": "CHYR WEI [TW]",
+        "result": "L",
+        "table": 32
+      },
+      "6": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "L",
+        "table": 40
+      },
+      "7": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "W",
+        "table": 45
+      }
+    }
+  },
+  {
+    "name": "Kotaro Nakagome [JP]",
+    "placing": 79,
+    "record": {
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.428571428571429,
+      "opp": 0.331632653061224,
+      "oppopp": 0.425915127955944
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "L",
+        "table": 7
+      },
+      "2": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "L",
+        "table": 56
+      },
+      "3": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "L",
+        "table": 57
+      },
+      "4": {
+        "name": "Mattie Morgan [IE]",
+        "result": "L",
+        "table": 59
+      },
+      "5": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 55
+      },
+      "6": {
+        "name": "Federico Isola [IT]",
+        "result": "W",
+        "table": 50
+      },
+      "7": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 48
+      }
+    }
+  },
+  {
+    "name": "Kaoru Ueki [JP]",
+    "placing": 80,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.551020408163265,
+      "oppopp": 0.479980563654033
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "W",
+        "table": 32
+      },
+      "2": {
+        "name": "Joaquín Blanch [ES]",
+        "result": "L",
+        "table": 17
+      },
+      "3": {
+        "name": "Lukas Auer [AT]",
+        "result": "W",
+        "table": 32
+      },
+      "4": {
+        "name": "Nils Dunlop [SE]",
+        "result": "L",
+        "table": 29
+      },
+      "5": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 41
+      },
+      "6": {
+        "name": "JEONGSO REE [KR]",
+        "result": "L",
+        "table": 41
+      },
+      "7": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "L",
+        "table": 41
+      }
+    }
+  },
+  {
+    "name": "Sam Pandelis [AU]",
+    "placing": 81,
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.333333333333333,
+      "opp": 0.541666666666667,
+      "oppopp": 0.519212962962963
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "Federico Camporesi [IT]",
+        "result": "W",
+        "table": 37
+      },
+      "2": {
+        "name": "Rinya Kobayashi [JP]",
+        "result": "L",
+        "table": 24
+      },
+      "3": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "L",
+        "table": 39
+      },
+      "4": {
+        "name": "James Katsaros [AU]",
+        "result": "W",
+        "table": 44
+      },
+      "5": {
+        "name": "Taro Okada [JP]",
+        "result": "L",
+        "table": 35
+      },
+      "6": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "L",
+        "table": 46
+      }
+    }
+  },
+  {
+    "name": "Oliver Eskolin [FI]",
+    "placing": 82,
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.4,
+      "opp": 0.53,
+      "oppopp": 0.45
+    },
+    "decklist": "",
+    "drop": 5,
+    "rounds": {
+      "1": {
+        "name": "Wataru Arai [JP]",
+        "result": "W",
+        "table": 55
+      },
+      "2": {
+        "name": "Taro Okada [JP]",
+        "result": "L",
+        "table": 11
+      },
+      "3": {
+        "name": "James Evans [US]",
+        "result": "L",
+        "table": 28
+      },
+      "4": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "W",
+        "table": 51
+      },
+      "5": {
+        "name": "Henry Rich [AU]",
+        "result": "L",
+        "table": 38
+      }
+    }
+  },
+  {
+    "name": "Iago Pardo [ES]",
+    "placing": 83,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.525510204081633,
+      "oppopp": 0.476737123420797
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "James Katsaros [AU]",
+        "result": "W",
+        "table": 45
+      },
+      "2": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "L",
+        "table": 19
+      },
+      "3": {
+        "name": "Joji Kaieda [JP]",
+        "result": "L",
+        "table": 37
+      },
+      "4": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "W",
+        "table": 36
+      },
+      "5": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "L",
+        "table": 42
+      },
+      "6": {
+        "name": "Ben Grissmer [US]",
+        "result": "L",
+        "table": 43
+      },
+      "7": {
+        "name": "Shoma Honami [JP]",
+        "result": "L",
+        "table": 46
+      }
+    }
+  },
+  {
+    "name": "Paul Ruiz [EC]",
+    "placing": 84,
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.333333333333333,
+      "opp": 0.513888888888889,
+      "oppopp": 0.520833333333333
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "James Baek [US]",
+        "result": "L",
+        "table": 30
+      },
+      "2": {
+        "name": "Zach Gray [US]",
+        "result": "W",
+        "table": 35
+      },
+      "3": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "L",
+        "table": 41
+      },
+      "4": {
+        "name": "Giovanni Piscitelli [IT]",
+        "result": "W",
+        "table": 42
+      },
+      "5": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "L",
+        "table": 29
+      },
+      "6": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "L",
+        "table": 39
+      }
+    }
+  },
+  {
+    "name": "Nathan Ortiz [US]",
+    "placing": 85,
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.333333333333333,
+      "opp": 0.486111111111111,
+      "oppopp": 0.482175925925926
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "L",
+        "table": 23
+      },
+      "2": {
+        "name": "Tsubasa Kitaoka [JP]",
+        "result": "W",
+        "table": 34
+      },
+      "3": {
+        "name": "Kota Kawabe [JP]",
+        "result": "L",
+        "table": 27
+      },
+      "4": {
+        "name": "Taran Birdee [GB]",
+        "result": "W",
+        "table": 35
+      },
+      "5": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "L",
+        "table": 27
+      },
+      "6": {
+        "name": "Ashton Cox [US]",
+        "result": "L",
+        "table": 35
+      }
+    }
+  },
+  {
+    "name": "Juan Manuel Santizo [GT]",
+    "placing": 86,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.48469387755102,
+      "oppopp": 0.478223194039521
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Hippolyte Bernard [FR]",
+        "result": "L",
+        "table": 15
+      },
+      "2": {
+        "name": "Ben Grissmer [US]",
+        "result": "L",
+        "table": 49
+      },
+      "3": {
+        "name": "Federico Isola [IT]",
+        "result": "W",
+        "table": 56
+      },
+      "4": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "L",
+        "table": 49
+      },
+      "5": {
+        "name": "Ashton Cox [US]",
+        "result": "L",
+        "table": 49
+      },
+      "6": {
+        "name": "Kohei Fujita [JP]",
+        "result": "W",
+        "table": 51
+      },
+      "7": {
+        "name": "Zach Gray [US]",
+        "result": "L",
+        "table": 45
+      }
+    }
+  },
+  {
+    "name": "Thomas Gravouille [FR]",
+    "placing": 87,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.48469387755102,
+      "oppopp": 0.471253644314869
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kiyoshiro Arai [JP]",
+        "result": "W",
+        "table": 19
+      },
+      "2": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "W",
+        "table": 8
+      },
+      "3": {
+        "name": "Brady Smith [US]",
+        "result": "L",
+        "table": 5
+      },
+      "4": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 19
+      },
+      "5": {
+        "name": "Wataru Arai [JP]",
+        "result": "L",
+        "table": 26
+      },
+      "6": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "L",
+        "table": 44
+      },
+      "7": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "L",
+        "table": 47
+      }
+    }
+  },
+  {
+    "name": "nicolas del campo [CL]",
+    "placing": 88,
+    "record": {
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.333333333333333,
+      "opp": 0.472222222222222,
+      "oppopp": 0.478240740740741
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "Luke Iuele [AU]",
+        "result": "L",
+        "table": 27
+      },
+      "2": {
+        "name": "Henry Rich [AU]",
+        "result": "W",
+        "table": 44
+      },
+      "3": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "L",
+        "table": 38
+      },
+      "4": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "W",
+        "table": 45
+      },
+      "5": {
+        "name": "Naoya Takasago [JP]",
+        "result": "L",
+        "table": 23
+      },
+      "6": {
+        "name": "Taran Birdee [GB]",
+        "result": "L",
+        "table": 38
+      }
+    }
+  },
+  {
+    "name": "Enzo Reci [US]",
+    "placing": 89,
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.4,
+      "opp": 0.46,
+      "oppopp": 0.514
+    },
+    "decklist": "",
+    "drop": 5,
+    "rounds": {
+      "1": {
+        "name": "Federico Isola [IT]",
+        "result": "W",
+        "table": 46
+      },
+      "2": {
+        "name": "Yuya Tada [JP]",
+        "result": "L",
+        "table": 10
+      },
+      "3": {
+        "name": "François-Xavier de Lageneste [FR]",
+        "result": "W",
+        "table": 24
+      },
+      "4": {
+        "name": "Yosuke Takayanagi [JP]",
+        "result": "L",
+        "table": 23
+      },
+      "5": {
+        "name": "Joonas Hakalahti [FI]",
+        "result": "L",
+        "table": 39
+      }
+    }
+  },
+  {
+    "name": "Kazuki Kobayashi [JP]",
+    "placing": 90,
+    "record": {
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.4,
+      "opp": 0.46,
+      "oppopp": 0.458
+    },
+    "decklist": "",
+    "drop": 5,
+    "rounds": {
+      "1": {
+        "name": "Kota Kawabe [JP]",
+        "result": "L",
+        "table": 20
+      },
+      "2": {
+        "name": "Davide Carrer [IT]",
+        "result": "L",
+        "table": 59
+      },
+      "3": {
+        "name": "Kiyoshiro Arai [JP]",
+        "result": "W",
+        "table": 49
+      },
+      "4": {
+        "name": "Javier Valdés [CL]",
+        "result": "W",
+        "table": 34
+      },
+      "5": {
+        "name": "Sho Ito [JP]",
+        "result": "L",
+        "table": 40
+      }
+    }
+  },
+  {
+    "name": "Luke Iuele [AU]",
+    "placing": 91,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.45578231292517,
+      "oppopp": 0.506624554583738
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "nicolas del campo [CL]",
+        "result": "W",
+        "table": 27
+      },
+      "2": {
+        "name": "Markus Stadter [DE]",
+        "result": "L",
+        "table": 30
+      },
+      "3": {
+        "name": "Adrien Hurley [US]",
+        "result": "L",
+        "table": 30
+      },
+      "4": {
+        "name": "WONSEOK JUNG [KR]",
+        "result": "L",
+        "table": 47
+      },
+      "5": {
+        "name": "Javier Valdés [CL]",
+        "result": "W",
+        "table": 47
+      },
+      "6": {
+        "name": "Go Hirabara [JP]",
+        "result": "L",
+        "table": 36
+      },
+      "7": {
+        "name": "Lukas Auer [AT]",
+        "result": "L",
+        "table": 42
+      }
+    }
+  },
+  {
+    "name": "Hinata Kozuka [JP]",
+    "placing": 92,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.448979591836735,
+      "oppopp": 0.492371234207969
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Javier Valdés [CL]",
+        "result": "W",
+        "table": 13
+      },
+      "2": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "L",
+        "table": 8
+      },
+      "3": {
+        "name": "Yuma Kinugawa [JP]",
+        "result": "L",
+        "table": 20
+      },
+      "4": {
+        "name": "Luca Ceribelli [IT]",
+        "result": "L",
+        "table": 39
+      },
+      "5": {
+        "name": "Jeremy Rodrigues [US]",
+        "result": "L",
+        "table": 43
+      },
+      "6": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "W",
+        "table": 49
+      },
+      "7": {
+        "name": "Chongjun Peng [CN]",
+        "result": "L",
+        "table": 43
+      }
+    }
+  },
+  {
+    "name": "Kohei Inomoto [JP]",
+    "placing": 93,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.439795918367347,
+      "oppopp": 0.448551992225462
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Kiwamu Endo [JP]",
+        "result": "L",
+        "table": 14
+      },
+      "2": {
+        "name": "Joseph Ugarte [US]",
+        "result": "L",
+        "table": 37
+      },
+      "3": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "W",
+        "table": 57
+      },
+      "4": {
+        "name": "Oliver Eskolin [FI]",
+        "result": "L",
+        "table": 51
+      },
+      "5": {
+        "name": "Mattie Morgan [IE]",
+        "result": "L",
+        "table": 45
+      },
+      "6": {
+        "name": "Javier Valdés [CL]",
+        "result": "L",
+        "table": 48
+      },
+      "7": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 51
+      }
+    }
+  },
+  {
+    "name": "Kohei Fujita [JP]",
+    "placing": 94,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.438775510204082,
+      "oppopp": 0.47220602526725
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Sho Ito [JP]",
+        "result": "L",
+        "table": 53
+      },
+      "2": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "L",
+        "table": 55
+      },
+      "3": {
+        "name": "Motoki Agano [JP]",
+        "result": "L",
+        "table": 52
+      },
+      "4": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 57
+      },
+      "5": {
+        "name": "Kevin Ngim Bin Sani Ng [MY]",
+        "result": "L",
+        "table": 50
+      },
+      "6": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "L",
+        "table": 51
+      },
+      "7": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 50
+      }
+    }
+  },
+  {
+    "name": "Christopher Patrick Popa Elegado [PH]",
+    "placing": 95,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.438775510204082,
+      "oppopp": 0.455952380952381
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Go Hirabara [JP]",
+        "result": "L",
+        "table": 22
+      },
+      "2": {
+        "name": "Sho Ito [JP]",
+        "result": "L",
+        "table": 33
+      },
+      "3": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 60
+      },
+      "4": {
+        "name": "Henry Rich [AU]",
+        "result": "L",
+        "table": 43
+      },
+      "5": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "L",
+        "table": 44
+      },
+      "6": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 52
+      },
+      "7": {
+        "name": "Gabriel Agati Madeira [BR]",
+        "result": "L",
+        "table": 40
+      }
+    }
+  },
+  {
+    "name": "Melvin Keh Guan Hui [SG]",
+    "placing": 96,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.438775510204082,
+      "oppopp": 0.449429057337221
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Taro Okada [JP]",
+        "result": "L",
+        "table": 38
+      },
+      "2": {
+        "name": "Kaisei Ichikawa [JP]",
+        "result": "W",
+        "table": 38
+      },
+      "3": {
+        "name": "Ko Tsukide [JP]",
+        "result": "L",
+        "table": 23
+      },
+      "4": {
+        "name": "JEONGSO REE [KR]",
+        "result": "L",
+        "table": 38
+      },
+      "5": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "L",
+        "table": 54
+      },
+      "6": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "L",
+        "table": 49
+      },
+      "7": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "W",
+        "table": 49
+      }
+    }
+  },
+  {
+    "name": "Javier Valdés [CL]",
+    "placing": 97,
+    "record": {
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.285714285714286,
+      "opp": 0.358163265306122,
+      "oppopp": 0.438794946550049
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Hinata Kozuka [JP]",
+        "result": "L",
+        "table": 13
+      },
+      "2": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "L",
+        "table": 45
+      },
+      "3": {
+        "name": "Masahiro Onimaru [JP]",
+        "result": "W",
+        "table": 58
+      },
+      "4": {
+        "name": "Kazuki Kobayashi [JP]",
+        "result": "L",
+        "table": 34
+      },
+      "5": {
+        "name": "Luke Iuele [AU]",
+        "result": "L",
+        "table": 47
+      },
+      "6": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "W",
+        "table": 48
+      },
+      "7": {
+        "name": "Mattie Morgan [IE]",
+        "result": "L",
+        "table": 44
+      }
+    }
+  },
+  {
+    "name": "Giovanni Piscitelli [IT]",
+    "placing": 98,
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.625,
+      "oppopp": 0.53125
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "CHYR WEI [TW]",
+        "result": "W",
+        "table": 52
+      },
+      "2": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 28
+      },
+      "3": {
+        "name": "Alessio Yuri Boschetto [IT]",
+        "result": "L",
+        "table": 35
+      },
+      "4": {
+        "name": "Paul Ruiz [EC]",
+        "result": "L",
+        "table": 42
+      }
+    }
+  },
+  {
+    "name": "Takuma Yamane [JP]",
+    "placing": 99,
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.53,
+      "oppopp": 0.4835
+    },
+    "decklist": "",
+    "drop": 5,
+    "rounds": {
+      "1": {
+        "name": "Shinichi Matsuda [JP]",
+        "result": "L",
+        "table": 24
+      },
+      "2": {
+        "name": "Alex DellaPasqua [IT]",
+        "result": "L",
+        "table": 58
+      },
+      "3": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 54
+      },
+      "4": {
+        "name": "Meaghan Rattle [AU]",
+        "result": "L",
+        "table": 53
+      },
+      "5": {
+        "name": "Yusuke Shibano [JP]",
+        "result": "L",
+        "table": 51
+      }
+    }
+  },
+  {
+    "name": "François-Xavier de Lageneste [FR]",
+    "placing": 100,
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.5,
+      "oppopp": 0.515625
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "Jirawiwat Thitasiri [TH]",
+        "result": "L",
+        "table": 50
+      },
+      "2": {
+        "name": "joaquin salerno [AR]",
+        "result": "W",
+        "table": 51
+      },
+      "3": {
+        "name": "Enzo Reci [US]",
+        "result": "L",
+        "table": 24
+      },
+      "4": {
+        "name": "Alex Soto [ES]",
+        "result": "L",
+        "table": 33
+      }
+    }
+  },
+  {
+    "name": "Masahiro Onimaru [JP]",
+    "placing": 101,
+    "record": {
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.448979591836735,
+      "oppopp": 0.484110787172012
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Eisuke Nakayama [JP]",
+        "result": "L",
+        "table": 6
+      },
+      "2": {
+        "name": "Francesco Luigi Pardini [IT]",
+        "result": "L",
+        "table": 46
+      },
+      "3": {
+        "name": "Javier Valdés [CL]",
+        "result": "L",
+        "table": 58
+      },
+      "4": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "W",
+        "table": 56
+      },
+      "5": {
+        "name": "Pan Si Ming [HK]",
+        "result": "L",
+        "table": 46
+      },
+      "6": {
+        "name": "Lukas Auer [AT]",
+        "result": "L",
+        "table": 47
+      },
+      "7": {
+        "name": "Kohei Fujita [JP]",
+        "result": "L",
+        "table": 50
+      }
+    }
+  },
+  {
+    "name": "James Katsaros [AU]",
+    "placing": 102,
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.4375,
+      "oppopp": 0.578125
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "Iago Pardo [ES]",
+        "result": "L",
+        "table": 45
+      },
+      "2": {
+        "name": "Szymon Wojdat [PL]",
+        "result": "W",
+        "table": 57
+      },
+      "3": {
+        "name": "Chongjun Peng [CN]",
+        "result": "L",
+        "table": 21
+      },
+      "4": {
+        "name": "Sam Pandelis [AU]",
+        "result": "L",
+        "table": 44
+      }
+    }
+  },
+  {
+    "name": "Szymon Wojdat [PL]",
+    "placing": 103,
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.4375,
+      "oppopp": 0.484375
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "Flavio Del Pidio [IT]",
+        "result": "L",
+        "table": 48
+      },
+      "2": {
+        "name": "James Katsaros [AU]",
+        "result": "L",
+        "table": 57
+      },
+      "3": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 47
+      },
+      "4": {
+        "name": "Tsubasa Kitaoka [JP]",
+        "result": "W",
+        "table": 55
+      }
+    }
+  },
+  {
+    "name": "Diego Ferreira [AU]",
+    "placing": 104,
+    "record": {
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.4375,
+      "oppopp": 0.46875
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 36
+      },
+      "2": {
+        "name": "Naoya Takasago [JP]",
+        "result": "L",
+        "table": 22
+      },
+      "3": {
+        "name": "Shoma Honami [JP]",
+        "result": "L",
+        "table": 29
+      },
+      "4": {
+        "name": "Ben Grissmer [US]",
+        "result": "L",
+        "table": 50
+      }
+    }
+  },
+  {
+    "name": "Federico Isola [IT]",
+    "placing": 105,
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.413888888888889,
+      "oppopp": 0.43962962962963
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "Enzo Reci [US]",
+        "result": "L",
+        "table": 46
+      },
+      "2": {
+        "name": "juan salerno [AR]",
+        "result": "L",
+        "table": 50
+      },
+      "3": {
+        "name": "Juan Manuel Santizo [GT]",
+        "result": "L",
+        "table": 56
+      },
+      "4": {
+        "name": "Vicente Fuentes [CL]",
+        "result": "W",
+        "table": 58
+      },
+      "5": {
+        "name": "Naoto Mizubuchi [JP]",
+        "result": "L",
+        "table": 48
+      },
+      "6": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "L",
+        "table": 50
+      }
+    }
+  },
+  {
+    "name": "Kiyoshiro Arai [JP]",
+    "placing": 106,
+    "record": {
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.41,
+      "oppopp": 0.5075
+    },
+    "decklist": "",
+    "drop": 5,
+    "rounds": {
+      "1": {
+        "name": "Thomas Gravouille [FR]",
+        "result": "L",
+        "table": 19
+      },
+      "2": {
+        "name": "Joji Kaieda [JP]",
+        "result": "L",
+        "table": 60
+      },
+      "3": {
+        "name": "Kazuki Kobayashi [JP]",
+        "result": "L",
+        "table": 49
+      },
+      "4": {
+        "name": "Kaisei Ichikawa [JP]",
+        "result": "W",
+        "table": 60
+      },
+      "5": {
+        "name": "Taran Birdee [GB]",
+        "result": "L",
+        "table": 53
+      }
+    }
+  },
+  {
+    "name": "Chris Giagozoglou [AU]",
+    "placing": 107,
+    "record": {
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.38265306122449,
+      "oppopp": 0.429543245869776
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Shoma Honami [JP]",
+        "result": "L",
+        "table": 16
+      },
+      "2": {
+        "name": "JEONGSO REE [KR]",
+        "result": "L",
+        "table": 41
+      },
+      "3": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "L",
+        "table": 60
+      },
+      "4": {
+        "name": "Naoyuki Matsuhashi [JP]",
+        "result": "L",
+        "table": 54
+      },
+      "5": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "L",
+        "table": 55
+      },
+      "6": {
+        "name": "Jack Clarke [GB]",
+        "result": "W",
+        "table": 54
+      },
+      "7": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "L",
+        "table": 49
+      }
+    }
+  },
+  {
+    "name": "joaquin salerno [AR]",
+    "placing": 108,
+    "record": {
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.361111111111111,
+      "oppopp": 0.46875
+    },
+    "decklist": "",
+    "drop": 6,
+    "rounds": {
+      "1": {
+        "name": "Paul Chua [US]",
+        "result": "L",
+        "table": 10
+      },
+      "2": {
+        "name": "François-Xavier de Lageneste [FR]",
+        "result": "L",
+        "table": 51
+      },
+      "3": {
+        "name": "Tsubasa Kitaoka [JP]",
+        "result": "W",
+        "table": 59
+      },
+      "4": {
+        "name": "Zach Gray [US]",
+        "result": "L",
+        "table": 52
+      },
+      "5": {
+        "name": "Heriberto Pacaje [CL]",
+        "result": "L",
+        "table": 52
+      },
+      "6": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "L",
+        "table": 53
+      }
+    }
+  },
+  {
+    "name": "Vicente Fuentes [CL]",
+    "placing": 109,
+    "record": {
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.339285714285714,
+      "oppopp": 0.431762093726379
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Diego Ferreira [AU]",
+        "result": "L",
+        "table": 36
+      },
+      "2": {
+        "name": "Pan Si Ming [HK]",
+        "result": "L",
+        "table": 54
+      },
+      "3": {
+        "name": "Takuma Yamane [JP]",
+        "result": "L",
+        "table": 54
+      },
+      "4": {
+        "name": "Federico Isola [IT]",
+        "result": "L",
+        "table": 58
+      },
+      "5": {
+        "name": "BYE",
+        "result": "W",
+        "table": 0
+      },
+      "6": {
+        "name": "Christopher Patrick Popa Elegado [PH]",
+        "result": "L",
+        "table": 52
+      },
+      "7": {
+        "name": "Kotaro Nakagome [JP]",
+        "result": "L",
+        "table": 48
+      }
+    }
+  },
+  {
+    "name": "Jack Gilbert [AU]",
+    "placing": 110,
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 1,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": 1,
+    "rounds": {
+      "1": {
+        "name": "Andrea Cassinese [IT]",
+        "result": "L",
+        "table": 42
+      }
+    }
+  },
+  {
+    "name": "Alfredo Chang-Gonzalez [AU]",
+    "placing": 111,
+    "record": {
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 1,
+      "oppopp": 0.25
+    },
+    "decklist": "",
+    "drop": 1,
+    "rounds": {
+      "1": {
+        "name": "Roberto Parente [IT]",
+        "result": "L",
+        "table": 49
+      }
+    }
+  },
+  {
+    "name": "Kaisei Ichikawa [JP]",
+    "placing": 112,
+    "record": {
+      "wins": 0,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.4375,
+      "oppopp": 0.484375
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "Nils Dunlop [SE]",
+        "result": "L",
+        "table": 8
+      },
+      "2": {
+        "name": "Melvin Keh Guan Hui [SG]",
+        "result": "L",
+        "table": 38
+      },
+      "3": {
+        "name": "Zach Gray [US]",
+        "result": "L",
+        "table": 48
+      },
+      "4": {
+        "name": "Kiyoshiro Arai [JP]",
+        "result": "L",
+        "table": 60
+      }
+    }
+  },
+  {
+    "name": "Tsubasa Kitaoka [JP]",
+    "placing": 113,
+    "record": {
+      "wins": 0,
+      "losses": 4,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.4375,
+      "oppopp": 0.46875
+    },
+    "decklist": "",
+    "drop": 4,
+    "rounds": {
+      "1": {
+        "name": "David Koutesh [CZ]",
+        "result": "L",
+        "table": 59
+      },
+      "2": {
+        "name": "Nathan Ortiz [US]",
+        "result": "L",
+        "table": 34
+      },
+      "3": {
+        "name": "joaquin salerno [AR]",
+        "result": "L",
+        "table": 59
+      },
+      "4": {
+        "name": "Szymon Wojdat [PL]",
+        "result": "L",
+        "table": 55
+      }
+    }
+  },
+  {
+    "name": "Jack Clarke [GB]",
+    "placing": 114,
+    "record": {
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    },
+    "resistances": {
+      "self": 0.25,
+      "opp": 0.423469387755102,
+      "oppopp": 0.440524781341108
+    },
+    "decklist": "",
+    "drop": -1,
+    "rounds": {
+      "1": {
+        "name": "Brady Smith [US]",
+        "result": "L",
+        "table": 12
+      },
+      "2": {
+        "name": "Wataru Arai [JP]",
+        "result": "L",
+        "table": 47
+      },
+      "3": {
+        "name": "Tatsuki Wakita [JP]",
+        "result": "L",
+        "table": 53
+      },
+      "4": {
+        "name": "Kohei Fujita [JP]",
+        "result": "L",
+        "table": 57
+      },
+      "5": {
+        "name": "Yuhi Kawaide [JP]",
+        "result": "L",
+        "table": 56
+      },
+      "6": {
+        "name": "Chris Giagozoglou [AU]",
+        "result": "L",
+        "table": 54
+      },
+      "7": {
+        "name": "Kohei Inomoto [JP]",
+        "result": "L",
+        "table": 51
+      }
+    }
+  }
+]
