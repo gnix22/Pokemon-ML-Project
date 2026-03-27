@@ -1,0 +1,259 @@
+Bug
+-Megahorn
+-X-Scissor
+-U-turn
+-Attack Order
+Dark
+-Punishment
+-Pursuit
+-Crunch
+-Sucker Punch
+-Night Slash
+-Payback
+Dragon
+-Outrage
+-Dragon Claw
+Electric
+-Volt Tackle
+-Thunder Fang
+-ThunderPunch
+Fighting
+-Reversal
+-Focus Punch
+-SuperPower
+-Low Kick
+-Mach Punch
+-Drain Punch
+-Hi Jump Kick
+-DynamicPunch
+-Cross Chop
+-Hammer Arm
+-Close Combat
+-Brick Break
+-Sky Uppercut
+-Seismic Toss
+-Force Palm
+-Double Kick
+Fire
+-Sacred Fire
+-Flare Blitz
+-Fire Punch
+-Fire Fang
+-Blaze Kick
+Flying
+-Brave Bird
+-Bounce
+-Drill Peck
+-Aerial Ace
+Ghost
+-Shadow Sneak
+-Shadow Claw
+-Shadow Punch
+-ShadowStrike*
+Grass
+-Seed Bomb
+-Power Whip
+-Wood Hammer
+-Leaf Blade
+Ground
+-Earthquake
+Ice
+-Ice Shard
+-Ice Punch
+-Ice Fang
+Normal
+-Explosion
+-Selfdestruct
+-Flail
+-Double-Edge
+-Return/Frustration
+-Fake Out
+-Quick Attack
+-ExtremeSpeed
+-Facade
+-Body Slam
+-Double Hit
+Poison
+-Poison Jab
+-Gunk Shot
+-Cross Poison
+-Poison Fang
+Psychic
+-Zen Headbutt
+-Psycho Cut
+Rock
+-Head Smash
+-Stone Edge
+-Rock Slide
+-Rock Blast
+Steel
+-Gyro Ball
+-Bullet Punch
+-Meteor Mash
+-Iron Head
+Water
+-Aqua Jet
+-Aqua Tail
+-Waterfall
+Competitive Special Attacking Moves
+Bug
+-Bug Buzz
+-Signal Beam
+-Silver Wind
+Dark
+-Dark Pulse
+Dragon
+-Draco Meteor
+-Dragon Pulse
+Electric
+-Thunder
+-Thunderbolt
+-Discharge
+-Charge Beam
+Fighting
+-Focus Blast
+-Aura Sphere
+-Vacuum Wave
+Fire
+-Eruption
+-Overheat
+-Fire Blast
+-Flamethrower
+-Heat Wave
+-Lava Plume
+Flying
+-Aeroblast
+-Air Slash
+Ghost
+-Shadow Ball
+-Ominous Wind
+-Night Shade
+Grass
+-Solarbeam
+-Leaf Storm
+-Grass Knot
+-Energy Ball
+-Giga Drain
+Ground
+-Earth Power
+Ice
+-Blizzard
+-Ice Beam
+-Icy Wind
+Normal
+-Tri attack
+-Hidden Power+
+Poison
+-Sludge bomb
+Psychic
+-Psychic
+-Extrasensory
+-Psycho Boost
+Rock
+-Ancientpower
+-Power Gem
+-Paleo Wave*
+Steel
+-Flash cannon
+Water
+-Hydro Pump
+-Surf
+Competitive Non-Attacking Moves
+Stat Boosting
+-Acid Armor
+-Accupressure
+-Agility
+-Amnesia
+-Barrier
+-Belly Drum
+-Bulk Up
+-Calm Mind
+-Cosmic Power
+-Curse (every type except Ghost-type)
+-Defend Order
+-Dragon Dance
+-Growth
+-Iron Defense
+-Meditate
+-Nasty Plot
+-Rock Polish
+-Stockpile
+-Swords Dance
+Stat Reducing
+-Charm
+-Fake Tears
+-Feather Dance
+-Kinesis
+-Memento
+-Metal Sound
+-Screech
+-Tickle
+HP Restoration
+-Aqua Ring
+-Heal Order
+-Ingrain
+-Milk Drink
+-Moonlight
+-Morning Sun
+-Recover
+-Rest
+-Roost
+-Softboiled
+-Slack Off
+-Synthesis
+Support
+-Aromatherapy
+-Baton Pass
+-Block
+-Destiny Bond
+-Encore
+-Endure
+-Gravity
+-Haze
+-Heal Bell
+-Imprison
+-Knock Off***
+-Leech Seed
+-Light Screen
+-Magic Coat
+-Magnet Rise
+-Mean Look
+-Perish Song
+-Protect
+-Psych up
+-Psycho Shift
+-Rain Dance
+-Rapid Spin***
+-Recycle
+-Roar
+-Safeguard
+-Sleep Talk
+-Snatch
+-Spikes
+-Spider Web
+-Stealth Rock
+-Sunny Day
+-Switcheroo
+-Taunt
+-Toxic Spikes
+-Trick
+-Trick Room
+-U-turn**
+-Whirlwind
+Status Inducing
+-Confuse Ray
+-Curse (Ghost-type)
+-Dark Void
+-Glare
+-Hypnosis
+-Lovely Kiss
+-Sing
+-Sleep Powder
+-Spore
+-Stun Spore
+-Sweet Kiss
+-Teeter Dance
+-Thunder Wave
+-Toxic
+-Will o Wisp
+-Yawn

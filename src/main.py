@@ -4,3 +4,4 @@ csv = "../data/pokemon_data.csv"
 model = PokeMachineClassifiers(csv)
 
 model.decision_tree_classifier()
+model.knn_classifier()
