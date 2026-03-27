@@ -1,5 +1,7 @@
+-- schema.sql 
+
 CREATE TABLE IF NOT EXISTS "pokemon" (
-"id" INTEGER,
+"id" INTEGER PRIMARY KEY,
 "name" TEXT,
 "hp" INTEGER,
 "attack" INTEGER,
@@ -47,4 +49,32 @@ CREATE TABLE IF NOT EXISTS "pokemon" (
 "number_not_effective" INTEGER,
 "number_normal" INTEGER,
 "number_super_effective" INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS "moves" (
+"id" INTEGER PRIMARY KEY,
+"identifier" TEXT,
+"generation_id" INTEGER,
+"type_id" INTEGER,
+"power" INTEGER,
+"pp" INTEGER,
+"accuracy" INTEGER,
+"priority" INTEGER,
+"target_id" INTEGER,
+"damage_class_id" INTEGER,
+"effect_id" INTEGER,
+"effect_chance" REAL,
+"contest_type_id" INTEGER,
+"contest_effect_id" INTEGER,
+"super_contest_effect_id" INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS "poke-moves" (
+"pokemon_id" INTEGER PRIMARY KEY,
+"version_group_id" INTEGER,
+"move_id" INTEGER,
+"pokemon_move_method_id" INTEGER,
+"level" INTEGER,
+"order" REAL,
+"mastery" REAL
 );

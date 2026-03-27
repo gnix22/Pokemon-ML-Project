@@ -14,9 +14,9 @@ DATA_DIR = "../"
 SCHEME_SCHEME = "schema.sql"
 # some mappings
 tables = {
-    #"pokemon" : f"{DATA_DIR}pokemon_data.csv",
+    "pokemon" : f"{DATA_DIR}pokemon_data.csv",
     "moves": f"{DATA_DIR}moves.csv",
-    #"poke-moves": f"{DATA_DIR}pokemon_moves.csv"
+    "poke-moves": f"{DATA_DIR}pokemon_moves.csv"
 }
 # try and infer what df type is to convert to sql
 def dtype_to_sql(dtype):
@@ -33,6 +33,7 @@ def sql_column_clean_up(name):
     return name
 # create table schema using above for each table
 def generate_table_schema(table):
+    final_schema = ["-- schema.sql \n"]
     for table, table_path in tables.items():
         df = pd.read_csv(table_path, nrows=5) # unnecessary to load entire dataframe for each path
         df.columns = [sql_column_clean_up(column) for column in df.columns]
@@ -42,10 +43,10 @@ def generate_table_schema(table):
             # maybe figure out a primary key determination? not sure if I want that specifically yet
             column_names.append(f'"{col}" {sql_type}') # set the column name and type for typical convention of CREATE TABLE
         column_string = ",\n".join(column_names) # puts vertical
-        schema_generation = f'CREATE TABLE IF NOT EXISTS "{table}" (\n{column_string}\n);\n' 
+        final_schema.append(f'CREATE TABLE IF NOT EXISTS "{table}" (\n{column_string}\n);\n') 
     # open the database file
     with open(SCHEME_SCHEME, "w") as file:
-        file.write(schema_generation)
+        file.write("\n".join(final_schema))
     print("schema tables generated successfully")
 # load respective csvs and insert
 def data_loading(tables):
